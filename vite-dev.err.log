@@ -1,2 +1,0 @@
-Unrestricted file system access to "/life/shows"
-For security concerns, accessing files outside of serving allow list will be restricted by default in the future version of Vite. Refer to https://vitejs.dev/config/#server-fs-allow for more details.
